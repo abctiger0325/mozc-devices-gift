@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=+5 Pin=*-1
+Removed Pin From Net: NetName=D- Pin=*-2
+Removed Pin From Net: NetName=D+ Pin=*-3
+Removed Pin From Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=+5 Pin=*-3
+Added Pin To Net: NetName=ROW5 Pin=IC1-29
+Added Pin To Net: NetName=ROW5 Pin=J6-1
+Added Net: Name=ROW5
+Added Pin To Net: NetName=ROW6 Pin=IC1-30
+Added Pin To Net: NetName=ROW6 Pin=J7-1
+Added Net: Name=ROW6
+Added Pin To Net: NetName=ROW7 Pin=IC1-12
+Added Pin To Net: NetName=ROW7 Pin=J8-1
+Added Net: Name=ROW7
+Added Pin To Net: NetName=ROW8 Pin=IC1-41
+Added Pin To Net: NetName=ROW8 Pin=J9-1
+Added Net: Name=ROW8
+Added Pin To Net: NetName=ROW9 Pin=IC1-40
+Added Pin To Net: NetName=ROW9 Pin=J10-1
+Added Net: Name=ROW9
+Added Pin To Net: NetName=ROW10 Pin=IC1-39
+Added Pin To Net: NetName=ROW10 Pin=J11-1
+Added Net: Name=ROW10
+Added Pin To Net: NetName=ROW11 Pin=IC1-38
+Added Pin To Net: NetName=ROW11 Pin=J12-1
+Added Net: Name=ROW11

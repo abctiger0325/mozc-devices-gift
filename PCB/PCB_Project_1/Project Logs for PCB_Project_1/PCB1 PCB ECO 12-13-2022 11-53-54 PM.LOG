@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=ROW1 Pin=J2-1
+Added Pin To Net: NetName=COL1 Pin=J2-2
+Added Pin To Net: NetName=MOSI Pin=J3-1
+Added Pin To Net: NetName=COL2 Pin=J3-2
+Added Pin To Net: NetName=MISO Pin=J4-1
+Added Pin To Net: NetName=COL3 Pin=J4-2
+Added Pin To Net: NetName=ROW4 Pin=J5-1
+Added Pin To Net: NetName=COL4 Pin=J5-2
+Added Pin To Net: NetName=COL5 Pin=J6-2
+Added Pin To Net: NetName=COL0 Pin=J7-2
+Added Pin To Net: NetName=COL1 Pin=J8-2
+Added Pin To Net: NetName=COL2 Pin=J9-2
+Added Pin To Net: NetName=COL3 Pin=J10-2
+Added Pin To Net: NetName=COL4 Pin=J11-2
+Added Pin To Net: NetName=COL5 Pin=J12-2
+Added Member To Class: ClassName=base Member=Component J2 2Pin
+Added Member To Class: ClassName=base Member=Component J3 2Pin
+Added Member To Class: ClassName=base Member=Component J4 2Pin
+Added Member To Class: ClassName=base Member=Component J5 2Pin
+Added Member To Class: ClassName=base Member=Component J6 2Pin
+Added Member To Class: ClassName=base Member=Component J7 2Pin
+Added Member To Class: ClassName=base Member=Component J8 2Pin
+Added Member To Class: ClassName=base Member=Component J9 2Pin
+Added Member To Class: ClassName=base Member=Component J10 2Pin
+Added Member To Class: ClassName=base Member=Component J11 2Pin
+Added Member To Class: ClassName=base Member=Component J12 2Pin

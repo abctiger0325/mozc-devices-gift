@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=ROW0 Pin=J12-1
+Removed Pin From Net: NetName=COL0 Pin=J12-2
+Removed Pin From Net: NetName=ROW1 Pin=J13-1
+Removed Pin From Net: NetName=COL1 Pin=J13-2
+Removed Pin From Net: NetName=MOSI Pin=J14-1
+Removed Pin From Net: NetName=COL2 Pin=J14-2
+Removed Pin From Net: NetName=MISO Pin=J15-1
+Removed Pin From Net: NetName=COL3 Pin=J15-2
+Removed Pin From Net: NetName=ROW4 Pin=J16-1
+Removed Pin From Net: NetName=COL4 Pin=J16-2
+Removed Pin From Net: NetName=COL5 Pin=J17-2
+Removed Pin From Net: NetName=COL0 Pin=J18-2
+Removed Pin From Net: NetName=COL1 Pin=J19-2
+Removed Pin From Net: NetName=COL2 Pin=J20-2
+Removed Pin From Net: NetName=COL3 Pin=J21-2
+Removed Pin From Net: NetName=COL4 Pin=J22-2
+Removed Pin From Net: NetName=COL5 Pin=J23-2
+Removed Member From Class: ClassName=base Member=J13
+Removed Member From Class: ClassName=base Member=J14
+Removed Member From Class: ClassName=base Member=J15
+Removed Member From Class: ClassName=base Member=J16
+Removed Member From Class: ClassName=base Member=J17
+Removed Member From Class: ClassName=base Member=J18
+Removed Member From Class: ClassName=base Member=J19
+Removed Member From Class: ClassName=base Member=J20
+Removed Member From Class: ClassName=base Member=J21
+Removed Member From Class: ClassName=base Member=J22
+Removed Member From Class: ClassName=base Member=J23
+Change Component Footprint: Designator=J12 Old Footprint=XH2.54-2pin New Footprint=TH2.54-2pin
+Added Component: Designator=J1(TH2.54-2pin)
+Added Component: Designator=J2(TH2.54-2pin)
+Added Component: Designator=J3(TH2.54-2pin)
+Added Component: Designator=J4(TH2.54-2pin)
+Added Component: Designator=J5(TH2.54-2pin)
+Added Component: Designator=J6(TH2.54-2pin)
+Added Component: Designator=J7(TH2.54-2pin)
+Added Component: Designator=J8(TH2.54-2pin)
+Added Component: Designator=J9(TH2.54-2pin)
+Added Component: Designator=J10(TH2.54-2pin)
+Added Component: Designator=J11(TH2.54-2pin)
+Added Pin To Net: NetName=ROW0 Pin=J1-1
+Added Pin To Net: NetName=COL0 Pin=J1-2
+Added Pin To Net: NetName=ROW1 Pin=J2-1
+Added Pin To Net: NetName=COL1 Pin=J2-2
+Added Pin To Net: NetName=MOSI Pin=J3-1
+Added Pin To Net: NetName=COL2 Pin=J3-2
+Added Pin To Net: NetName=MISO Pin=J4-1
+Added Pin To Net: NetName=COL3 Pin=J4-2
+Added Pin To Net: NetName=ROW4 Pin=J5-1
+Added Pin To Net: NetName=COL4 Pin=J5-2
+Added Pin To Net: NetName=COL5 Pin=J6-2
+Added Pin To Net: NetName=COL0 Pin=J7-2
+Added Pin To Net: NetName=COL1 Pin=J8-2
+Added Pin To Net: NetName=COL2 Pin=J9-2
+Added Pin To Net: NetName=COL3 Pin=J10-2
+Added Pin To Net: NetName=COL4 Pin=J11-2
+Added Pin To Net: NetName=COL5 Pin=J12-2
+Added Member To Class: ClassName=base Member=Component J1 2Pin
+Added Member To Class: ClassName=base Member=Component J2 2Pin
+Added Member To Class: ClassName=base Member=Component J3 2Pin
+Added Member To Class: ClassName=base Member=Component J4 2Pin
+Added Member To Class: ClassName=base Member=Component J5 2Pin
+Added Member To Class: ClassName=base Member=Component J6 2Pin
+Added Member To Class: ClassName=base Member=Component J7 2Pin
+Added Member To Class: ClassName=base Member=Component J8 2Pin
+Added Member To Class: ClassName=base Member=Component J9 2Pin
+Added Member To Class: ClassName=base Member=Component J10 2Pin
+Added Member To Class: ClassName=base Member=Component J11 2Pin

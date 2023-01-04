@@ -1,0 +1,62 @@
+Added Component: Designator=*1(XH2.54-2pin)
+Added Component: Designator=D1(1N4148)
+Added Component: Designator=D2(1N4148)
+Added Component: Designator=D3(1N4148)
+Added Component: Designator=D4(1N4148)
+Added Component: Designator=D5(1N4148)
+Added Component: Designator=J*1(1Pin)
+Added Component: Designator=J*2(1Pin)
+Added Component: Designator=J*3(1Pin)
+Added Component: Designator=J*4(1Pin)
+Added Component: Designator=J*5(1Pin)
+Added Component: Designator=J*6(1Pin)
+Added Component: Designator=J*7(1Pin)
+Added Component: Designator=J*8(1Pin)
+Added Component: Designator=J*9(1Pin)
+Added Component: Designator=J*10(1Pin)
+Added Component: Designator=J*11(1Pin)
+Added Component: Designator=J*12(1Pin)
+Added Component: Designator=K*1(Choco v2)
+Added Component: Designator=K*2(Choco v2)
+Added Component: Designator=K*3(Choco v2)
+Added Component: Designator=K*4(Choco v2)
+Added Component: Designator=K*5(Choco v2)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=Net*1_1 Pin=K*1-2
+Added Pin To Net: NetName=Net*1_1 Pin=K*2-2
+Added Pin To Net: NetName=Net*1_1 Pin=K*3-2
+Added Pin To Net: NetName=Net*1_1 Pin=K*4-2
+Added Pin To Net: NetName=Net*1_1 Pin=K*5-2
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Net*1_2 Pin=*1-2
+Added Pin To Net: NetName=Net*1_2 Pin=D5-C
+Added Pin To Net: NetName=Net*1_2 Pin=J*2-1
+Added Net: Name=Net*1_2
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=K*1-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD1_C Pin=D1-C
+Added Pin To Net: NetName=NetD1_C Pin=J*4-1
+Added Net: Name=NetD1_C
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=K*2-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD2_C Pin=D2-C
+Added Pin To Net: NetName=NetD2_C Pin=J*6-1
+Added Net: Name=NetD2_C
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=K*3-1
+Added Net: Name=NetD3_A
+Added Pin To Net: NetName=NetD3_C Pin=D3-C
+Added Pin To Net: NetName=NetD3_C Pin=J*8-1
+Added Net: Name=NetD3_C
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=K*4-1
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetD4_C Pin=D4-C
+Added Pin To Net: NetName=NetD4_C Pin=J*11-1
+Added Net: Name=NetD4_C
+Added Pin To Net: NetName=NetD5_A Pin=D5-A
+Added Pin To Net: NetName=NetD5_A Pin=K*5-1
+Added Net: Name=NetD5_A
+Added Class: Name=key

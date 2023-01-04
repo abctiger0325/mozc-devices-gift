@@ -1,0 +1,141 @@
+Added Component: Designator=*(XH2.54-4pin)
+Added Component: Designator=1(4pin_slot)
+Added Component: Designator=C1(C0805)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC1(TQFP-44)
+Added Component: Designator=J12(XH2.54-2pin)
+Added Component: Designator=J13(XH2.54-2pin)
+Added Component: Designator=J14(XH2.54-2pin)
+Added Component: Designator=J15(XH2.54-2pin)
+Added Component: Designator=J16(XH2.54-2pin)
+Added Component: Designator=J17(XH2.54-2pin)
+Added Component: Designator=J18(XH2.54-2pin)
+Added Component: Designator=J19(XH2.54-2pin)
+Added Component: Designator=J20(XH2.54-2pin)
+Added Component: Designator=J21(XH2.54-2pin)
+Added Component: Designator=J22(XH2.54-2pin)
+Added Component: Designator=J23(XH2.54-2pin)
+Added Component: Designator=J24(1Pin)
+Added Component: Designator=J25(1Pin)
+Added Component: Designator=J26(1Pin)
+Added Component: Designator=J27(1Pin)
+Added Component: Designator=J28(1Pin)
+Added Component: Designator=J29(1Pin)
+Added Component: Designator=J30(1Pin)
+Added Component: Designator=J31(1Pin)
+Added Component: Designator=J32(1Pin)
+Added Component: Designator=J33(1Pin)
+Added Component: Designator=J34(1Pin)
+Added Component: Designator=J35(1Pin)
+Added Component: Designator=R1(R2512)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(R2512)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(R2512)
+Add component (AddParameter): Name = "value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XT1(Resonator)
+Added Pin To Net: NetName=+5 Pin=1-2
+Added Pin To Net: NetName=+5 Pin=*-1
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=IC1-2
+Added Pin To Net: NetName=+5 Pin=IC1-7
+Added Pin To Net: NetName=+5 Pin=IC1-14
+Added Pin To Net: NetName=+5 Pin=IC1-24
+Added Pin To Net: NetName=+5 Pin=IC1-34
+Added Pin To Net: NetName=+5 Pin=IC1-44
+Added Pin To Net: NetName=+5 Pin=R1-2
+Added Net: Name=+5
+Added Pin To Net: NetName=COL0 Pin=IC1-18
+Added Pin To Net: NetName=COL0 Pin=J12-2
+Added Pin To Net: NetName=COL0 Pin=J18-2
+Added Net: Name=COL0
+Added Pin To Net: NetName=COL1 Pin=IC1-19
+Added Pin To Net: NetName=COL1 Pin=J13-2
+Added Pin To Net: NetName=COL1 Pin=J19-2
+Added Net: Name=COL1
+Added Pin To Net: NetName=COL2 Pin=IC1-20
+Added Pin To Net: NetName=COL2 Pin=J14-2
+Added Pin To Net: NetName=COL2 Pin=J20-2
+Added Net: Name=COL2
+Added Pin To Net: NetName=COL3 Pin=IC1-21
+Added Pin To Net: NetName=COL3 Pin=J15-2
+Added Pin To Net: NetName=COL3 Pin=J21-2
+Added Net: Name=COL3
+Added Pin To Net: NetName=COL4 Pin=IC1-25
+Added Pin To Net: NetName=COL4 Pin=J16-2
+Added Pin To Net: NetName=COL4 Pin=J22-2
+Added Net: Name=COL4
+Added Pin To Net: NetName=COL5 Pin=IC1-22
+Added Pin To Net: NetName=COL5 Pin=J17-2
+Added Pin To Net: NetName=COL5 Pin=J23-2
+Added Net: Name=COL5
+Added Pin To Net: NetName=D+ Pin=*-3
+Added Pin To Net: NetName=D+ Pin=R3-2
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=*-2
+Added Pin To Net: NetName=D- Pin=R2-2
+Added Net: Name=D-
+Added Pin To Net: NetName=GND Pin=1-6
+Added Pin To Net: NetName=GND Pin=*-4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=IC1-5
+Added Pin To Net: NetName=GND Pin=IC1-15
+Added Pin To Net: NetName=GND Pin=IC1-23
+Added Pin To Net: NetName=GND Pin=IC1-35
+Added Pin To Net: NetName=GND Pin=IC1-43
+Added Net: Name=GND
+Added Pin To Net: NetName=MISO Pin=1-1
+Added Pin To Net: NetName=MISO Pin=IC1-11
+Added Pin To Net: NetName=MISO Pin=J15-1
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=1-4
+Added Pin To Net: NetName=MOSI Pin=IC1-10
+Added Pin To Net: NetName=MOSI Pin=J14-1
+Added Net: Name=MOSI
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-42
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=IC1-6
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetIC1_3 Pin=IC1-3
+Added Pin To Net: NetName=NetIC1_3 Pin=R2-1
+Added Net: Name=NetIC1_3
+Added Pin To Net: NetName=NetIC1_4 Pin=IC1-4
+Added Pin To Net: NetName=NetIC1_4 Pin=R3-1
+Added Net: Name=NetIC1_4
+Added Pin To Net: NetName=RESET Pin=1-5
+Added Pin To Net: NetName=RESET Pin=IC1-13
+Added Pin To Net: NetName=RESET Pin=R1-1
+Added Net: Name=RESET
+Added Pin To Net: NetName=ROW0 Pin=IC1-8
+Added Pin To Net: NetName=ROW0 Pin=J12-1
+Added Net: Name=ROW0
+Added Pin To Net: NetName=ROW1 Pin=1-3
+Added Pin To Net: NetName=ROW1 Pin=IC1-9
+Added Pin To Net: NetName=ROW1 Pin=J13-1
+Added Net: Name=ROW1
+Added Pin To Net: NetName=ROW4 Pin=IC1-28
+Added Pin To Net: NetName=ROW4 Pin=J16-1
+Added Net: Name=ROW4
+Added Pin To Net: NetName=XT1 Pin=C3-2
+Added Pin To Net: NetName=XT1 Pin=IC1-17
+Added Pin To Net: NetName=XT1 Pin=XT1-1
+Added Net: Name=XT1
+Added Pin To Net: NetName=XT2 Pin=C4-2
+Added Pin To Net: NetName=XT2 Pin=IC1-16
+Added Pin To Net: NetName=XT2 Pin=XT1-2
+Added Net: Name=XT2
+Added Class: Name=base
